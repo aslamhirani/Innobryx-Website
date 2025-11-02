@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const Hero: React.FC = () => {
@@ -14,7 +13,7 @@ const Hero: React.FC = () => {
           We help organizations scale agility, improve processes, and deliver value faster.
         </p>
         <a
-          href="#contact"
+          href="mailto:sales@innobryx.com"
           className="bg-indigo-600 text-white font-bold py-3 px-8 rounded-full text-lg hover:bg-indigo-700 transition-transform transform hover:scale-105"
         >
           Partner With Us

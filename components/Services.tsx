@@ -12,17 +12,17 @@ const services: Service[] = [
   {
     icon: ProductIcon,
     title: 'Product Management',
-    description: 'From idea to launch, we guide your product strategy, roadmap, and execution to build products that customers love and drive business growth.',
+    description: 'We guide teams through structured frameworks — design thinking, desirability–viability analysis, prioritization, and prototyping — to align customer needs with business goals.',
   },
   {
     icon: GearIcon,
     title: 'Process Efficiency Improvements',
-    description: 'We streamline end-to-end processes, focusing on cross-functional collaboration, root cause analysis, and effective tracking to reduce cycle time and improve quality.',
+    description: 'Using frameworks like Lean Thinking, Value Stream Mapping, Theory of Constraints, and Continuous Improvement loops, we coach teams to eliminate waste, reduce cycle times, and focus on value delivery — not busywork.',
   },
   {
     icon: AgileIcon,
     title: 'Agile Consulting',
-    description: 'Transform your organization with agile methodologies. We help you adopt Scrum, Kanban, and Lean principles to deliver value faster and more efficiently.',
+    description: 'We enable teams to apply Agile principles — adaptive planning, iterative delivery, feedback-driven improvement, and empowered collaboration — to accelerate learning and deliver measurable value continuously.',
   },
 ];
 

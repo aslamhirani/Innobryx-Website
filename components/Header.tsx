@@ -30,7 +30,7 @@ const Header: React.FC = () => {
     >
       <div className="container mx-auto px-6 py-4 flex justify-between items-center">
         <a href="#" className="text-2xl font-bold text-slate-900">
-          <span className="text-indigo-600">Innobryx</span>
+          <span className="text-indigo-600">Innobryx Consulting</span>
         </a>
         
         {/* Desktop Navigation */}

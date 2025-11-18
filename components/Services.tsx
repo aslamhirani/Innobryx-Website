@@ -11,7 +11,7 @@ interface Service {
 const services: Service[] = [
   {
     icon: ProductIcon,
-    title: 'Product Management',
+    title: 'Innovation and Product Management',
     description: 'We guide teams through structured frameworks — design thinking, desirability–viability analysis, prioritization, and prototyping — to align customer needs with business goals.',
   },
   {
